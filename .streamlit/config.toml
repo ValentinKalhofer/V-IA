@@ -1,1 +1,7 @@
-
+[theme]
+primaryColor="#ffffff"
+backgroundColor="#37414e"
+secondaryBackgroundColor="#222c35"
+textColor="#ffffff"
+font = "serif"
+codeFont = "monospace"
